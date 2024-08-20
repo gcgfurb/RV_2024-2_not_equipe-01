@@ -1,0 +1,20 @@
+O texto aborda as diversas formas de interagir com elementos virtuais em ambientes de realidade aumentada (RA).
+
+Inicialmente, os sistemas de RA se concentraram apenas na visualização de objetos virtuais. Com o tempo, a necessidade de interagir com esses elementos se tornou evidente, dando origem a diversas técnicas.
+
+As principais técnicas de interação discutidas são:
+
+Seleção: Escolher um objeto virtual para interagir. Pode ser feita através de interfaces gráficas 2D adaptadas para o ambiente 3D ou utilizando elementos virtuais como apontadores.
+Manipulação: Modificar ou mover objetos virtuais. É possível através de cartões de controle, interação direta do usuário com os objetos ou interfaces tangíveis.
+Navegação: Explorar o ambiente aumentado, controlando a direção de visualização e o deslocamento. Pode ser feita por meio de dispositivos de rastreamento ou controles especiais.
+Outras formas de interação: Inclui o uso de câmeras de profundidade para reconhecer gestos, interfaces multimodais (combinação de voz, gestos e outros) e agentes virtuais controlados pelo usuário.
+A busca por uma interação natural é um dos principais desafios em sistemas de RA. O objetivo é que o usuário interaja com os elementos virtuais e físicos de forma intuitiva, sem perceber a distinção entre eles.
+
+Pontos principais:
+
+A evolução da interação em sistemas de RA, passando de interfaces gráficas 2D para interações mais naturais.
+A importância da seleção, manipulação e navegação como técnicas fundamentais.
+A diversidade de abordagens para implementar essas técnicas, como o uso de marcadores, câmeras de profundidade e interfaces multimodais.
+O desafio de criar interfaces que permitam ao usuário interagir de forma natural com elementos virtuais e físicos.
+
+Paginas: 44, 45, 46
